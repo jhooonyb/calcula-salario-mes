@@ -1,0 +1,11 @@
+C:\Users\jhona\source\repos\CalculaSalario\CalculaSalario\bin\Debug\netcoreapp2.1\CalculaSalario.deps.json
+C:\Users\jhona\source\repos\CalculaSalario\CalculaSalario\bin\Debug\netcoreapp2.1\CalculaSalario.runtimeconfig.json
+C:\Users\jhona\source\repos\CalculaSalario\CalculaSalario\bin\Debug\netcoreapp2.1\CalculaSalario.runtimeconfig.dev.json
+C:\Users\jhona\source\repos\CalculaSalario\CalculaSalario\bin\Debug\netcoreapp2.1\CalculaSalario.dll
+C:\Users\jhona\source\repos\CalculaSalario\CalculaSalario\bin\Debug\netcoreapp2.1\CalculaSalario.pdb
+C:\Users\jhona\source\repos\CalculaSalario\CalculaSalario\obj\Debug\netcoreapp2.1\CalculaSalario.csprojAssemblyReference.cache
+C:\Users\jhona\source\repos\CalculaSalario\CalculaSalario\obj\Debug\netcoreapp2.1\CalculaSalario.csproj.CoreCompileInputs.cache
+C:\Users\jhona\source\repos\CalculaSalario\CalculaSalario\obj\Debug\netcoreapp2.1\CalculaSalario.AssemblyInfoInputs.cache
+C:\Users\jhona\source\repos\CalculaSalario\CalculaSalario\obj\Debug\netcoreapp2.1\CalculaSalario.AssemblyInfo.cs
+C:\Users\jhona\source\repos\CalculaSalario\CalculaSalario\obj\Debug\netcoreapp2.1\CalculaSalario.dll
+C:\Users\jhona\source\repos\CalculaSalario\CalculaSalario\obj\Debug\netcoreapp2.1\CalculaSalario.pdb
